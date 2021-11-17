@@ -3,11 +3,13 @@
 <p>&nbsp;
 
 ### <p align="center"> <font size="6"> **STARTUP SUCCESS STORY BLOCKFI** </font> 
-<p align="center"> 
+ 
+<p align="center">
+  <img src="https://i.insider.com/60f59bc7bc757c001904ba76?width=700" alt="BlockFi Logo"/>
+</p>
 
-![BlockFi Logo](https://i.insider.com/60f59bc7bc757c001904ba76?width=700)
 
-</p> 
+ 
 
 <p>&nbsp;
 <p>&nbsp;
