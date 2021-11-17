@@ -3,7 +3,11 @@
 <p>&nbsp;
 
 ### <p align="center"> <font size="6"> **STARTUP SUCCESS STORY BLOCKFI** </font> 
+<p align="center"> 
+
 ![BlockFi Logo](https://i.insider.com/60f59bc7bc757c001904ba76?width=700)
+
+</p> 
 
 <p>&nbsp;
 <p>&nbsp;
@@ -38,9 +42,6 @@
 
 ---
 <font size="1">*Fintech Domain Case Study*</font> 
-
-<p>&nbsp;
-<p>&nbsp;
 
 ## <span style="color:turquoise">Overview and Origin <a name="OverviewandOrigin"></a></span>
 <font size="3">**Name of Company**</font>
